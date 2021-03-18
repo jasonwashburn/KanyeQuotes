@@ -4,4 +4,4 @@ A Kanye West quote generator made with Python and Tkinter. Uses the [kanye.rest]
 
 Click the face, get a random quote.
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png | width=200)
